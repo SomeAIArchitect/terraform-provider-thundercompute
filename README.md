@@ -2,6 +2,10 @@
 
 Terraform provider for managing [Thunder Compute](https://thundercompute.com) GPU cloud resources: instances, SSH keys, and snapshots.
 
+**UPD: About a month ago kind guys from Thunder Compute vendored this repo into their own by my request:** [here](https://github.com/Thunder-Compute/terraform-provider-thundercompute). 
+
+Any further development of this repo is discontinued.
+
 ## Requirements
 
 - [Terraform](https://developer.hashicorp.com/terraform/downloads) >= 1.0
